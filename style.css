@@ -1,0 +1,49 @@
+header {
+    background-color: lightseagreen;
+    display: flex;
+    flex-direction: column;
+    padding-right: 40px;
+    padding-left: 20px;
+    padding-bottom: 40px;
+    align-items: center;
+    justify-content: center;
+    max-width: 95%;
+    margin: 0 auto;
+}
+h1{
+    margin: 0%;
+    padding: 15px;
+    color: white;
+}
+p {
+    color: white;
+    padding: 15px;
+    margin: 0px
+}
+
+h2{
+    text-align: center;
+    margin: 40px 0;
+    color: grey;
+}
+hr{
+    width: 40px;
+}
+#new-task {
+    float: left;
+    width: 318px;
+}
+#add-button {
+float: left;
+width: 318px;
+}
+
+input{
+    width: 95%;
+    border-radius: 10px;
+    padding-left: 30px;
+    left: 20px;
+    place-content: hi;
+}
+
+
